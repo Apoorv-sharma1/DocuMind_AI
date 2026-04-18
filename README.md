@@ -67,9 +67,6 @@ J --> K[Display Response]
 ### 🔐 Login Page
 ![Login Screenshot](/login.png)
 
-### 📂 Upload PDF
-![Upload Screenshot](/upload.png)
-
 ### 💬 Chat Interface
 ![Chat Screenshot](/chat.png)
 
