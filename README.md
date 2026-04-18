@@ -65,13 +65,13 @@ J --> K[Display Response]
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Screenshot](screenshots/login.png)
+![Login Screenshot](/login.png)
 
 ### 📂 Upload PDF
-![Upload Screenshot](screenshots/upload.png)
+![Upload Screenshot](/upload.png)
 
 ### 💬 Chat Interface
-![Chat Screenshot](screenshots/chat.png)
+![Chat Screenshot](/chat.png)
 
 ---
 
